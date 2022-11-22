@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="startMarker_id">m0</string>
+    <string name="startMarker_title">Павлодар</string>
+    <string name="startMarker_info">
+        <![CDATA[
+               <b>Ближайшие Отделения Банков,супермаркетов,больниц и торговых домов</b> <BR>
+
+        ]]>
+        </string>
+    <string name="startMarker_file"></string>
+
+    <!--  -->
+
+    <string name="marker1_id">m1</string>
+    <string name="marker1_title">Kaspi Bank</string>
+    <string name="marker1_txt_click">Kaspi Bank</string>
+    <string name="marker1_info">
+        <![CDATA[
+        <b>Kaspi Bank
+           </b><BR>
+        — казахстанский розничный системообразующий банк,<BR>
+        который предоставляет инновационные финансовые сервисы и продукты через приложение Kaspi.kz.<BR>
+        Телефон: 8 (7272) 58 59 65<BR>
+        Сайт: https://kaspi.kz<BR>
+        ]]>
+        </string>
+    <string name="marker1_file">file:///android_asset/KASPI/index.html</string>
+
+    <!--  -->
+
+    <string name="marker2_id">m2</string>
+    <string name="marker2_title">Магазин Ремикс</string>
+    <string name="marker2_txt_click">Супермаркет ремикс</string>
+    <string name="marker2_info">
+        <![CDATA[
+        <b>Продуктовый супермаркет "Remix" </b> <BR>  <BR>
+        Телефон: +78000800059 <BR>
+
+        ]]>
+        </string>
+    <string name="marker2_file">file:///android_asset/HALYK/index.html</string>
+
+    <string name="marker3_id">m3</string>
+    <string name="marker3_title">Торговый дом Квазар</string>
+    <string name="marker3_txt_click">Торговый дом Квазар</string>
+    <string name="marker3_info">
+        <![CDATA[
+        <b>Торговый дом Квазар
+           </b>
+        Телефон: +77272445477<BR>
+
+        ]]>
+        </string>
+    <string name="marker3_file">file:///android_asset/HOMECREDIT/index.html</string>
+
+    <!--  -->
+
+    <string name="marker4_id">m4</string>
+    <string name="marker4_title">Частная больница "Profimed"</string>
+    <string name="marker4_txt_click">Profimed</string>
+    <string name="marker4_info">
+        <![CDATA[
+        <b>Profimed </b> <BR> Частный больничный комплекс <BR>
+        Предоставляет широкий спектр докторских услуг<BR>
+        Головной офис находится в Алматы. <BR>
+        Телефон: +77182903903 <BR>
+
+        ]]>
+        </string>
+    <string name="marker4_file">file:///android_asset/EURASIA/index.html</string>
+
+    <!--  -->
+
+    <string name="marker5_id">m5</string>
+    <string name="marker5_title">Дом дружбы</string>
+    <string name="marker5_txt_click">Дом Дружбы</string>
+    <string name="marker5_info">
+        <![CDATA[
+        <b>Дом дружбы </b> <BR>
+        Телефон: +77182704103 <BR>
+
+        ]]>
+        </string>
+    <string name="marker5_file">file:///android_asset/ALPHA/index.html</string>
+
+</resources>
